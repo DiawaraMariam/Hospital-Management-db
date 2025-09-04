@@ -1,3 +1,4 @@
+-- Database Schema for Hospital Management System
 
 CREATE TABLE Patients (
     patient_id INT PRIMARY KEY,
